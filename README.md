@@ -1,4 +1,4 @@
-# PRODIGY_SD_03
+# ContactManagement
 A simple Java-based Contact Management System that allows users to add, view, edit, and delete contacts.
 
 Features
@@ -8,5 +8,5 @@ Features
 > Menu-driven program
 
 To Run: 
-  javac ContactManagementSystem.java
-  java ContactManagementSystem
+  javac ContactManagement.java
+  java ContactManagement
