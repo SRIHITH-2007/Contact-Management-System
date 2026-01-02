@@ -17,7 +17,7 @@ class Contact {
     }
 }
 
-public class PRODIGY_SD_03 {
+public class ContactManagement {
 
     static ArrayList<Contact> contacts = new ArrayList<>();
     static Scanner sc = new Scanner(System.in);
@@ -114,3 +114,4 @@ public class PRODIGY_SD_03 {
         System.out.println("Contact deleted successfully!");
     }
 }
+
